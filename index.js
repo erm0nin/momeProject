@@ -10,7 +10,7 @@
 
 let arr = ['orange.png', 'apple.png', 'banana.jpeg', 'kiwi.png'];
 
-DocumentFragment
+console.log(array(arr));
 
 function array() {
   let last = [];
